@@ -1,0 +1,10 @@
+"chainId": 101,
+  "address": "Fb5snTVDBuH5CSzAXFXSAzCH9zkb3TGyoz3TEfvdu6Sk",
+  "symbol": "FLMC",
+  "name": "Flame Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/token-list/main/assets/mainnet/Fb5snTVDBuH5CSzAXFXSAzCH9zkb3TGyoz3TEfvdu6Sk/logo.png",
+  "tags": [],
+  "extensions": {
+    "website": "https://yourtokenwebsite.com",
+    "twitter": "https://twitter.com/yourtoken"
